@@ -19,3 +19,7 @@ Sistem Toko Online dibuat untuk membantu pelanggan membeli produk secara online 
 5. Melakukan checkout.
 6. Melakukan pembayaran.
 7. Admin mengelola produk dan pesanan.
+
+# Diagram Deskripsi Sistem
+
+![Diagram Deskripsi Sistem](images/deskripsi-sistem.png)
