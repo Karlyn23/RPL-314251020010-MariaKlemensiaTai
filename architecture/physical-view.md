@@ -38,26 +38,12 @@ Data yang disimpan:
 
 ## Jaringan
 
-Perangkat pengguna
-↓
-
-Internet
-↓
-
-Web Server
-↓
-
-Database Server
+Perangkat pengguna-->Internet-->Web Server-->Database Server
 
 ## Diagram Physical View
 
-Laptop / Smartphone
-↓
+Laptop / Smartphone-->Internet-->Web Server-->MySQL Database
 
-Internet
-↓
+# Diagram Physical View
 
-Web Server
-↓
-
-MySQL Database
+![Physical View](images/physical-view.png)
