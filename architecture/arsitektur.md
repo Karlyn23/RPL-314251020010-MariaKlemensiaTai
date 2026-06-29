@@ -55,4 +55,4 @@ Pengguna → Website → Business Logic → Database → Business Logic → Webs
 
 ## Diagram Arsitektur
 
-![Diagram Arsitektur](gambar-sistem-toko-online.jpeg)
+![Diagram Arsitektur sistem](images/arsitektur-sistem.png)
