@@ -72,3 +72,7 @@ Pesanan
 Pembayaran
 ↓
 Laporan
+
+# Diagram Logical View
+
+![Logical View](images/logical-view.png)
