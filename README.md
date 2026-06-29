@@ -1,5 +1,8 @@
 # RPL-314251020010-MariaKlemensiaTai
 
+# Praktikum Rekayasa Perangkat Lunak
+## Sistem Toko Online
+
 ## Identitas Mahasiswa
 - Nama: Maria Klemensia Tai
 - NIM: 314251020010
