@@ -1,12 +1,12 @@
-# RPL-2210512345-KarlynTay
+# RPL-314251020010-MariaKlemensiaTai
 
 ## Identitas Mahasiswa
-- Nama: Karlyn Tay
-- NIM: 2210512345
+- Nama: Maria Klemensia Tai
+- NIM: 314251020010
 - Mata Kuliah: Rekayasa Perangkat Lunak
 
 ## Deskripsi
-Repository ini dibuat untuk mengumpulkan tugas Praktikum Rekayasa Perangkat Lunak Pertemuan 12 dan 13.
+Repository ini dibuat untuk mengumpulkan tugas Praktikum Rekayasa Perangkat Lunak Pertemuan 12 dan 13 tentang GitHub,pemeliharaan perangkat lunak,dan arsitektur perangkat lunak.
 
 ## Struktur Folder
 - `maintenance/` : Berisi maintenance plan perangkat lunak.
