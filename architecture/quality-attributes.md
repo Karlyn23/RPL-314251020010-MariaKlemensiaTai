@@ -14,3 +14,7 @@ Sistem harus mampu menangani peningkatan jumlah pengguna dan produk.
 
 ## 5. Availability
 Sistem harus dapat diakses kapan saja dengan gangguan seminimal mungkin.
+
+# Diagram Quality Attributes 
+
+![Quality Attributes ](images/quality-attributes.png)
