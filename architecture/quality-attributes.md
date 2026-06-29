@@ -17,4 +17,4 @@ Sistem harus dapat diakses kapan saja dengan gangguan seminimal mungkin.
 
 # Diagram Quality Attributes 
 
-![Quality Attributes ](images/quality-attributes.png)
+![Quality Attributes](images/quality-attributes.png)
